@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mubashir6258.github.io/resources-x98p20/sitemap.xml
